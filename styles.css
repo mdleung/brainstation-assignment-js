@@ -1,0 +1,36 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#title {
+
+    font-size: 25px;
+
+
+}
+
+#contact {
+
+    font-weight: bolder;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 35px;
+
+}
+
+.section-heading {
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px 0;
+
+}
+
+.item-heading {
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
